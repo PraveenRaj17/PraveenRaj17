@@ -1,9 +1,8 @@
 - 👋 Hello there! I’m Praveen
-- 👨‍🎓 I am currently pursuing masters in computer science at the University of Illinois at Chicago
-- 👀 I have over 2 years of experience in software development and interested in developing meaningful scalable applications.
-- 🤖 Also interested in machine learning/AI, specifically computer vision and data science.
-- 🌱 I’m currently learning AWS and web development frameworks like Node Js and React.
-- 💞️ I’m looking to collaborate on ML/AI projects. I would also love to work on something involving React.
+- 🧑‍💻 I have over 4 years of experience in data engineering/analytics and software development and a recent master's degree in Computer Science from the University of Illinois at Chicago.
+- 🤖 Also interested in machine learning/AI, specifically computer vision and data science where I have been contributing to leading research conferences.
+- 🛠️ Highly skilled in SQL and Python, the big 3 cloud technologies - AWS, GCP, Azure, and tools/frameworks like SSIS, Airflow, Spark, dbt.
+- 🌱 I’m currently seeking full-time opportunities where I can contribute to fast-paced, growth-hungry teams through data engineering and software dev.
 - 📫 Email me at praveen.rv171@gmail.com
 
 <!---
